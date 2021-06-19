@@ -1,0 +1,79 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	color: #A5185F;	
+	background-color: #C8CEDD;
+	font-family: 'EB Garamond', serif;
+}
+main{
+	margin: 5px;
+}
+
+
+.parik{
+	margin-left: 0px;
+	display: inline-block;
+	width: 30%;
+	border: 5px solid #4C5299;
+	border-radius: 7px;
+	background-color: #D0DAF3;
+
+}
+.andjela1{
+	width: 50%;	
+
+}
+a{
+	text-decoration: none;
+	background-color: white;
+	padding: 5px;
+	border-radius: 5px;}
+
+.mani{
+	display: inline-block;
+	width: 30%;
+	border: 5px solid #941774;
+	border-radius: 7px;
+	background-color: #D0DAF3;
+
+}
+.maki{
+	display: inline-block;
+	width: 30%;
+	border: 5px solid #279756;
+	border-radius: 7px;
+	background-color: #D0DAF3;
+}
+h1{
+	background-color: lightblue;
+
+}
+.text1{
+	font-size: 30px;
+	background-color: 
+}
+.text2{
+	font-size: 30px;
+}
+.text3{
+	background-color: #ABD8BA;
+
+}
+form{
+	font-size: 30px;
+	background-color: #D3D18F;
+}
+h1{
+	text-decoration: underline;
+}
+.defka1{
+	width: 49%;
+	height: 503px;
+}
+.text3:hover {
+	background-color: #DDD939;
+
+}
+footer{
+	background-color: #33BD6D;
+}
